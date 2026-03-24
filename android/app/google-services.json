@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209078072944",
+    "project_id": "k-star-app",
+    "storage_bucket": "k-star-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209078072944:android:4cb37799db3162120e26b5",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCeRmn_l8f2ivxwCMUpkprlObifTUpqPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
